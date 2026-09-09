@@ -10,6 +10,10 @@ This Repository Contains datasets about my claims
 6. REDDIT : https://www.reddit.com/user/Problematic_thinker9/
 7. STACK_OVERFLOW :
 
+## Real Guaranteed Paid Internship : india
+1. https://internshipsatnhai.digitalindiacorporation.in/internship/dashboard
+
+
 ## DSA : Data Structure & Algorithms 
 1. LEETCODE: https://leetcode.com/gitanuj993
 2. TUF : https://takeuforward.org/profile/at_2024
